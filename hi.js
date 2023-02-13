@@ -23,16 +23,16 @@ function openNav()
     {
         
         document.getElementById("sidebar").style.width="0";
-        document.getElementById("login").style.width="100%";
-        document.getElementById("login").style.marginLeft="0%";                        
+        document.getElementById("rightbar").style.width="100%";
+        document.getElementById("rightbar").style.marginLeft="0%";                        
         
     }
     else
     {   
         /* document.getElementById("sidebar").style.position="fixed";   */ 
         document.getElementById("sidebar").style.width="20%";   
-        document.getElementById("login").style.width="80%";                        
-        document.getElementById("login").style.marginLeft="20%";                        
+        document.getElementById("rightbar").style.width="80%";                        
+        document.getElementById("rightbar").style.marginLeft="20%";                        
         
     }
 }

@@ -123,12 +123,12 @@ html
     flex-grow: 1;
 }
 
-#login {
+#rightbar {
     transition: .7s;
     width: 100%;
     
-    display: flex;
-    overflow: hidden;
+    /* display: flex;
+    overflow: hidden; */
 }
 
 
@@ -152,9 +152,16 @@ html
     align-items: center;
     overflow: hidden;
     flex-flow: column;
+}
+.details
+{
+    background-color: rgb(24, 129, 194) ;
+    height: fit-content;
     
+    /* display: inline-block; */
     
 }
+.
 a :hover {
     color: black;
     text-decoration: none;
