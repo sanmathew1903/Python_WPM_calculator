@@ -31,8 +31,8 @@ function openNav()
     {   
         /* document.getElementById("sidebar").style.position="fixed";   */ 
         document.getElementById("sidebar").style.width="20%";   
-        document.getElementById("rightbar").style.width="80%";                        
-        document.getElementById("rightbar").style.marginLeft="20%";                        
+        /* document.getElementById("rightbar").style.width="80%";                        
+        document.getElementById("rightbar").style.marginLeft="20%";                         */
         
     }
 }
