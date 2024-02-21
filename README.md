@@ -1,4 +1,4 @@
-This is an terminal based application which can test your typing speed using python .
+Typing Test from your terminal. <br>
 
 To use the code:<br>
 1: Ensure that you have a UNIX based system or WSL .<br>
